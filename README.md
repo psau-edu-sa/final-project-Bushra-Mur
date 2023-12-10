@@ -1,4 +1,6 @@
 # X APPLICATION PROJECT
+<img src="[https://github.com/psau-edu-sa/hw1-Bushra-Mur/assets/153179431/3eb35ec6-ebad-4107-bb01-d72b87eb4403)" width="400" height="200" />
+
 # About X application /
 ### The application x is a mean of social communication that provide services to see the outside world and convey the public image of events with diverse perspectives, the number of X users around the world is approximately 330 million.
 # About the project /
